@@ -1,7 +1,9 @@
 # 视频学习资源共享 (更新于：2018年3月22日)
 资源从网上长期收集整理而来，方便冥冥之中寻觅各种学习视频的同伴提供一个聚集地。如有任何问题，请联系QQ:1213423761   
- ![](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)   
- ![](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)   
+ <figure class="half">
+    <img src="https://github.com/shiyuan17/share_video/blob/master/images/01.JPG">
+    <img src="https://github.com/shiyuan17/share_video/blob/master/images/02.JPG">
+</figure>
 
 ### 目录
 
@@ -44,7 +46,7 @@
 *   Java SSM快速开发仿慕课网在线教育平台。[下载地址](https://pan.baidu.com/s/1vX_VSMWqNpBqsGjexEm-bg) 密码: qsku
 *   全新升级 Kotlin系统入门与进阶。[下载地址](https://pan.baidu.com/s/1jbcWX2nTOBapuzgqLzUEXw) 密码: iuid
 *   IT段子手详解MyBatis遇到Spring 秒学Java SSM开发大众点评。[下载地址](https://pan.baidu.com/s/11fEc_vO4bCOG-jGR48mO3A) 密码: qj91
-*   Java大牛 带你从0到上线开发企业级电商项目。[下载地址](https://pan.baidu.com/s/1X64qHEJu2CJY8BF_7lQDRQ) 密码: dc89
+*   Java大牛 带你从0到上线开发企业级电商项目。[下载地址](https://pan.baidu.com/s/1X64qHEJu2CJY8BF_7lQDRQ) 密码: dc8
 *   Java Spring带前后端开发完整电商平台。[下载地址](https://pan.baidu.com/s/10nSK1C6AT2MN9VQhhj4znw) 密码: egws
 
 ###  <a name="php"></a>PHP
