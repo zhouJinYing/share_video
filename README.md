@@ -1,8 +1,5 @@
 # 视频学习资源共享 (更新于：2018年3月22日)
 资源从网上长期收集整理而来，方便冥冥之中寻觅各种学习视频的同伴提供一个聚集地。如有任何问题，请联系QQ:1213423761   
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/shiyuan17/share_video/blob/master/images/01.JPG"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;padding-left:20px;"><img src="https://github.com/shiyuan17/share_video/blob/master/images/02.JPG" width="200" height="260" ></div>   
-
 [![](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)
 [![](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)
 ### 目录
