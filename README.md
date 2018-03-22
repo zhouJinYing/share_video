@@ -174,3 +174,6 @@
 
 ###  <a name="mindMapping"></a>思维导图
 *   静秋姐姐手把手教你做运营。[下载地址](https://pan.baidu.com/s/19h_vBMjAuVD2_nuXK2Dptg) 密码: ewtq
+
+[![](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)
+[![](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)
